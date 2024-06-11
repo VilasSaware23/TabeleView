@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "1496de400fd39ffccb392b3efca9bbe95e36523673667f79a75c4af2d3700688"
+build_start_time: [1717403598, 873514175]
+build_end_time: [1717403600, 705564975]
+inputs:
+  "/Users/msc_india/Documents/Vilas_table_view/Vilas_table_view/AppDelegate.swift": [1717145752, 964130878]
+  "/Users/msc_india/Documents/Vilas_table_view/Vilas_table_view/SceneDelegate.swift": [1717145752, 969188451]
+  "/Users/msc_india/Documents/Vilas_table_view/Vilas_table_view/ViewController.swift": [1717395612, 996945142]
+  "/Users/msc_india/Documents/Vilas_table_view/Vilas_table_view/myTableCellTableViewCell.swift": [1717157120, 868316888]
